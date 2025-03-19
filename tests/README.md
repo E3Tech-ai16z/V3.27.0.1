@@ -1,6 +1,14 @@
-# Integration tests
 
-This directory contains smoke and integration tests for Eliza project.
+![GmVQSYxbkAAaW8C(1)](https://github.com/user-attachments/assets/07fd9476-0661-4843-b1c6-92d2885dfcb7)
+
+# E3Tech Integration tests
+
+- We’re thrilled to share our investment in E3Tech, a company applying AI and operational excellence to industries where technology adoption has lagged, creating new opportunities for efficiency and growth.
+Leading this vision is seasoned entrepreneur Rudy Adolf, who previously founded and successfully exited a leading investment advisory firm.
+
+# BSC Chain ​​Proposal
+
+- test_wallet = "0xf46f5139e3413bded38a09b861d620d23138b2d9"
 
 ## Smoke tests
 
