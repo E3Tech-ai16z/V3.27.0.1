@@ -8,7 +8,7 @@ Leading this vision is seasoned entrepreneur Rudy Adolf, who previously founded 
 
 # BSC Chain ​​Proposal
 
-- test_wallet = "0xf46f5139e3413bded38a09b861d620d23138b2d9"
+- test_wallet = ""
 
 ## Smoke tests
 
